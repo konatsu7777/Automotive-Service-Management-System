@@ -1,0 +1,4 @@
+T001,Franky,franky@apu.my,pass123,Technician
+T002,Tom,tom@apu.my,pass123,Technician
+T003,Iceburg,iceburg@apu.my,pass123,Technician
+T004,Vegapunk,vega@apu.my,pass123,Technician

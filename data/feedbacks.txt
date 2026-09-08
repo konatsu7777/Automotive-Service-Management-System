@@ -1,0 +1,26 @@
+F001,C001,A001,Great service! Very satisfied.,No issues found. Routine service completed successfully.,5,4
+F002,C002,A002,,Parts replaced. Vehicle is in good working condition.,0,0
+F003,C003,A003,The technician was friendly but the waiting time was too long. Could improve on scheduling.,Minor adjustments made. No further action required.,3,3
+F004,C001,A004,Thank you for chech my car! it was nice service,Vehicle inspected. Customer advised on maintenance schedule.,5,5
+F005,C001,A005,Excellent work! Especially impressed with how thoroughly the engine was checked.,No issues found. Routine service completed successfully.,5,5
+F006,C006,A006,,No issues found. Routine service completed successfully.,0,0
+F007,C001,A013,The staff at the counter was rude and unhelpful. Would not recommend based on customer service alone.,Additional repair recommended. Please advise customer to rebook.,1,1
+F008,C002,A014,,No issues found. Routine service completed successfully.,0,0
+F009,C003,A015,Good technical work but wish they had explained what was done in more detail.,Parts replaced. Vehicle is in good working condition.,3,3
+F010,C001,A016,It was nice service,Minor adjustments made. No further action required.,5,5
+F011,C002,A017,Very quick and professional.,Vehicle inspected. Customer advised on maintenance schedule.,5,5
+F012,C003,A018,,No issues found. Routine service completed successfully.,0,0
+F013,C001,A019,The technician really knew what he was doing. Car runs perfectly now.,Parts replaced. Vehicle is in good working condition.,5,4
+F014,C002,A020,,Minor adjustments made. No further action required.,0,0
+F015,C003,A021,Service was okay but the price felt a bit high for what was done.,Additional repair recommended. Please advise customer to rebook.,4,3
+F016,C001,A022,Good,Parts replaced. Vehicle is in good working condition.,5,5
+F017,C002,A023,Good experience overall.,Parts replaced. Vehicle is in good working condition.,4,4
+F018,C003,A024,,Minor adjustments made. No further action required.,0,0
+F019,C001,A025,Always reliable. Particularly liked how they kept me updated throughout.,Vehicle inspected. Customer advised on maintenance schedule.,5,5
+F020,C004,A034,,No issues found. Routine service completed successfully.,0,0
+F021,C005,A036,Smooth process from start to finish.,Minor adjustments made. No further action required.,5,5
+F023,C007,A039,Very impressed. The technician spotted an issue I did not even know about.,Parts replaced. Vehicle is in good working condition.,5,4
+F025,C002,A041,Decent service but the reception area could be cleaner and more organized.,Vehicle inspected. Customer advised on maintenance schedule.,4,3
+F026,T001,A038,,No issues found. Routine service completed successfully.,0,0
+F027,T001,A048,,No issues found. Routine service completed successfully.,0,0
+F028,T001,A050,,Parts replaced. Vehicle is in good working condition.,0,0

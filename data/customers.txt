@@ -1,0 +1,10 @@
+C001,Peter Koh,peter@gmail.com,pass123,Customer
+C002,Qing Mei,qing@gmail.com,pass123,Customer
+C003,Rahman Ali,rahman@gmail.com,pass123,Customer
+C004,Siti Noor,siti@gmail.com,pass123,Customer
+C005,Tommy Yap,tommy@gmail.com,pass123,Customer
+C006,Konatsu,koni@gmail.com,pass123,Customer
+C007,Anna,anna@gmail.com,pass123,Customer
+C008,Muslima,muslima@apu.com,pass123,Customer
+C009,Eren,eren@apu.com,pass123,Customer
+C010,Almin,almin@apu.com,pass123,Customer

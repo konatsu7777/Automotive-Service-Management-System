@@ -1,0 +1,5 @@
+S001,Kanna,kanna@apu.my,pass123,CounterStaff
+S002,Goh Wei Lun,goh@apu.my,pass123,CounterStaff
+S003,Hannah Lee,hannah@apu.my,pass123,CounterStaff
+S004,Ivan Raj,ivan@apu.my,pass123,CounterStaff
+S005,Jasmine Ooi,jasmine@apu.my,pass123,CounterStaff

@@ -1,0 +1,8 @@
+M001,Alice Tan,alice@apu.my,pass123,Manager
+M002,Bob Lim,bob@apu.my,pass123,Manager
+M004,David Ng,david@apu.my,pass123,Manager
+M005,Nox,eve@apu.my,pass123,Manager
+M006,Konatsu,konatsu@apu.my,pass123,Manager
+M007,Moo Yu Jin,moo@apu.my,pass123,Manager
+M008,Sky,sky@google.com,pass123,Manager
+M009,Moo,moo@mail.com,pass123,Manager
